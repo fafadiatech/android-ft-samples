@@ -67,3 +67,6 @@ Collection of Re-usable Samples for Android
 	- Audio
 	- Video
 	- SMS/Calling Intent
+1. Testing
+	- Unit Testing with Junit
+	- Espresso GUI testing
