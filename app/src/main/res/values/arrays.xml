@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_topics">
+        <item>Basic Components and Event Handling</item>
+        <item>Layout</item>
+        <item>Switching Views</item>
+        <item>Networking</item>
+        <item>Databases</item>
+        <item>Sensors</item>
+        <item>Testing</item>
+    </string-array>
+</resources>
